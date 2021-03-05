@@ -74,7 +74,7 @@ spec:
             - --provider=github
             - --email-domain=*
             - --github-org=
-            - --github-user=
+            - --github-user=allenchern
             - --upstream=file:///dev/null
             - --upstream=http://localhost/redirect/
             - --http-address=0.0.0.0:4180
